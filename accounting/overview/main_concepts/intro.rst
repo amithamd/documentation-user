@@ -1,5 +1,5 @@
 ===============================
-Introduction to Odoo Accounting
+Introduction to Odoo 9 Accounting
 ===============================
 
 .. youtube:: 6XgKPjgyoec
